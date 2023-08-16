@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  a {
+    background: #fff;
+  }
+</style>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
