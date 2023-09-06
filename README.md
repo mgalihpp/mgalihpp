@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 ## Database 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgalihpp&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgalihpp&theme=dark)
