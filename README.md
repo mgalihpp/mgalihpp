@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 ## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgalihpp&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgalihpp&theme=dark) -->
+ -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgalihpp&theme=dark) 
