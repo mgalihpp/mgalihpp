@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgalihpp&theme=dark)
+![mgalihh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgalihpp&show_icons=true&theme=transparent)
  -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgalihpp&theme=dark) 
-![mgalihh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgalihpp&show_icons=true&theme=transparent)
