@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 ![mgalihh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgalihpp&show_icons=true&theme=transparent)
  -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgalihpp&theme=dark) 
+![](https://komarev.com/ghpvc/?username=mgalihpp&label=Profile%20views&color=0e75b6&style=flat)
