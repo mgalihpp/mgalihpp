@@ -3,7 +3,7 @@
 <!--
 I'm in college just entered my first semester with a passion to write code with MERN Stack.
 -->
-- 🌱 I’m currently learning MERN Stack and T3 Stack
+- 🌱 I’m currently learning MERN Stack.
 
 <!--
 **mgalihpp/mgalihpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 ###
 
+ <!-- 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -76,7 +77,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
- <!-- 
  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
@@ -85,8 +85,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
- -->
 </div>
+ -->
 
 <!--
 ###
