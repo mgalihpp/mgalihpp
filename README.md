@@ -3,7 +3,7 @@
 <!--
 I'm in college just entered my first semester with a passion to write code with MERN Stack.
 -->
-- 🌱 I’m currently learning MERN Stack and Laravel.
+- 🌱 I’m currently learning PHP Laravel.
 
 <!--
 **mgalihpp/mgalihpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
