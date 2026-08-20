@@ -128,4 +128,5 @@ Here are some ideas to get you started:
 ![my spotify](https://spotify-recently-played-readme.vercel.app/api?user=1mjux5rrssx7q1iy2wluiopxz&count={5})
 -->
 ![](https://hit.yhype.me/github/profile?user_id=68680851)
- 
+
+ [![Tokscale Stats](https://tokscale.ai/api/embed/mgalihpp/svg?template=graph&color=orange&tokens=compact&cost=compact)](https://tokscale.ai/u/mgalihpp)
